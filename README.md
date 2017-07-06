@@ -1,2 +1,3 @@
 # hello-world
-Learning to use
+Learning to use Git
+Hi there! I am Shrey.
